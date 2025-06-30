@@ -1,0 +1,9 @@
+// Directory Structure
+// - server.js
+// - .env
+// - /models/User.js
+// - /models/Book.js
+// - /routes/auth.js
+// - /routes/api.js
+// - /middlewares/auth.js
+// - /config/passport.js
